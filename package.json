@@ -1,0 +1,21 @@
+{
+  "name": "watch-insurance-advisor",
+  "version": "1.0.0",
+  "description": "AI-powered chatbot to help decide whether insuring your watch makes financial sense",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {
+    "openai": "^4.0.0"
+  },
+  "keywords": [
+    "watch",
+    "insurance",
+    "advisor",
+    "chatbot",
+    "openai"
+  ],
+  "author": "",
+  "license": "MIT"
+}
