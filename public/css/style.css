@@ -154,13 +154,17 @@ body {
     flex: 1;
     overflow-y: auto;
     padding: var(--spacing-lg);
+    padding-bottom: var(--spacing-xl);
     scroll-behavior: smooth;
+    overflow-anchor: none;
 }
 
 .chat-messages {
     display: flex;
     flex-direction: column;
     gap: var(--spacing-lg);
+    padding-bottom: var(--spacing-lg);
+    min-height: 100%;
 }
 
 /* Welcome Card */

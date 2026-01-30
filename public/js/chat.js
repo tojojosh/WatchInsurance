@@ -194,7 +194,21 @@ function hideLoading() {
  * Scroll to the bottom of the chat
  */
 function scrollToBottom() {
-    chatMessages.scrollTop = chatMessages.scrollHeight;
+    // Use requestAnimationFrame to ensure DOM is rendered
+    requestAnimationFrame(() => {
+        // Get the last message element
+        const lastMessage = chatMessages.lastElementChild;
+        if (lastMessage) {
+            lastMessage.scrollIntoView({ behavior: 'smooth', block: 'end' });
+        }
+        // Also set scrollTop as fallback
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+    });
+    
+    // Double-check after a short delay for slower renders
+    setTimeout(() => {
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+    }, 100);
 }
 
 /**
