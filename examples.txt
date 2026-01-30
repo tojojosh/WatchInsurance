@@ -1,0 +1,85 @@
+EXAMPLE CONVERSATIONS
+
+Below are three end-to-end examples showing different scenarios and conversation flows.
+
+---
+
+EXAMPLE 1: Multiple Watches + Usage Question Asked (Insurance Recommended)
+
+Agent: "Would you like help deciding whether you should insure your watch? I'll ask a few quick questions to help assess whether insurance makes financial sense for you."
+
+User: "Yes, I've got a few pieces I'm thinking about covering."
+
+Agent: "Great. What's the approximate total value of the collection you're considering insuring?"
+
+User: "I've got a Rolex Submariner, an Omega Speedmaster, and a Grand Seiko — probably around £35,000 altogether."
+
+Agent: "Got it. And just to get a rough sense of your financial situation — would you say that £35,000 represents a small, moderate, or significant portion of your overall savings and assets?"
+
+User: "I'd say moderate. It's not going to bankrupt me if something happens, but it would definitely hurt."
+
+Agent: "Understood. Do you have a quote for the annual premium, or would you like me to work with a typical rate?"
+
+User: "I got a quote for about £600 a year."
+
+Agent: "That's reasonable. One more thing — how do you typically wear and store these watches? Daily rotation, special occasions, or mostly kept in a safe?"
+
+User: "I rotate them pretty regularly. One of them is on my wrist most days."
+
+Agent: "Thanks, that's helpful."
+
+Agent: "Based on what you've shared, insurance likely makes sense for you. The collection represents a meaningful chunk of your assets, the premium is reasonable at under 2% of the value, and since you're wearing them regularly, the risk of something happening isn't negligible. If one got stolen or damaged, you'd feel that loss."
+
+Agent: "Of course, this is just a financial perspective. There may be other factors in your situation I don't know about, and only you can decide what feels right."
+
+---
+
+EXAMPLE 2: Single Watch, No Optional Questions (Insurance Recommended)
+
+Agent: "Would you like help deciding whether you should insure your watch? I'll ask a few quick questions to help assess whether insurance makes financial sense for you."
+
+User: "Sure, I just bought a new watch and I'm wondering if I need coverage."
+
+Agent: "Congratulations on the new piece. What's the approximate value of the watch?"
+
+User: "About £15,000."
+
+Agent: "And would you say that £15,000 represents a small, moderate, or significant portion of your overall savings and assets?"
+
+User: "Significant, honestly. I saved up for a while to get it."
+
+Agent: "That makes sense. Do you have a quote for the annual premium, or should I work with a typical rate?"
+
+User: "No quote yet — what's typical?"
+
+Agent: "For a watch in that range, you'd usually be looking at around £300 per year, give or take. I'll work with that."
+
+Agent: "Based on what you've shared, insurance likely makes sense for you. This watch represents a significant part of what you've saved, and if something happened to it, that would be a real financial setback. At around £300 a year, the premium is reasonable for the peace of mind and protection you'd get."
+
+Agent: "Of course, this is just a financial perspective. There may be other factors in your situation I don't know about, and only you can decide what feels right."
+
+---
+
+EXAMPLE 3: Wealthy Collector + Deductible Mentioned (Insurance Not Recommended)
+
+Agent: "Would you like help deciding whether you should insure your watch? I'll ask a few quick questions to help assess whether insurance makes financial sense for you."
+
+User: "Yeah, my advisor suggested I look into it, but I'm not convinced."
+
+Agent: "Happy to help you think it through. What's the approximate value of the watch you're considering insuring?"
+
+User: "It's a Patek Philippe, worth about £80,000."
+
+Agent: "Lovely piece. And would you say that £80,000 represents a small, moderate, or significant portion of your overall savings and assets?"
+
+User: "Small, really. I've done well — it's a nice watch but it wouldn't change my life if I lost it."
+
+Agent: "Good to know. Do you have a quote for the annual premium?"
+
+User: "They quoted me £2,400 a year, but there's a £5,000 deductible."
+
+Agent: "Ah, that's worth noting. With that deductible, you'd still be on the hook for a decent amount on most claims."
+
+Agent: "Based on your situation, you could probably skip the insurance. You're financially positioned to absorb the loss if something happened — it would sting, but it wouldn't derail you. And with that £5,000 deductible, a lot of the smaller incidents wouldn't even be worth claiming. The £2,400 a year might serve you better elsewhere."
+
+Agent: "Of course, this is just a financial perspective. There may be other factors in your situation I don't know about, and only you can decide what feels right."

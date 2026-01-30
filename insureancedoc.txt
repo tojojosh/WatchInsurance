@@ -1,0 +1,52 @@
+Mathematics of Watch Insurance 
+
+Have you ever considered the mathematics of insurance? Believe it or not, insurance decisions should be based on numbers, not vibes. 
+So let’s take a quick look at some frameworks, formulae and worked examples. 
+
+The Kelly Criterion 
+The Kelly criterion was originally developed for gambling and later applied to investment strategies. As collectors, it gives a precise mathematical framework for insurance decisions. Here’s the formula for collectors (bear with me if you’re not into numbers): 
+V = log (W−P) − (1−Σpi) logW − Σ [pi log (W−ci) ] 
+Where: 
+W = Your total wealth P = Insurance premium pi = Probability of each type of loss ci = Cost of each type of loss 
+If V is positive, get the insurance. If negative, skip it. Simple as that. 
+
+Real World Example 
+For a watch collector, let’s make up some numbers: 
+Total Wealth (W): £500,000 Watch Value: £150,000 Annual Premium (P): £3,000 
+Estimated risks: 
+Total loss (theft/destruction): Probability: 0.5% (pi = 0.005) Cost: £150,000 (ci) 
+Major damage: Probability: 2% (pi = 0.02) Cost: £30,000 (ci) 
+Minor repairs: Probability: 5% (pi = 0.05) 
+Cost: £5,000 (ci) Plugging these into the formula, we get V = 0.023¹. 
+Since this positive, insurance makes mathematical sense here. 
+
+Deductibles 
+Now this is where it gets hairy. If you add a £5,000 deductible, watch what happens to the equation (where di is the new deductible for each event type): 
+V = Σ [ pi log ( (W−P−di) / (W−ci) ) ] 
+Running the numbers again with this deductible, V drops to -0.015². In this case, insurance isn’t worth it anymore! 
+
+Wealth Effects 
+It is logical, but worth reiterating, that the same insurance policy can simultaneously be worth it for a collector with £500k net worth and terrible value for someone worth £5m. Why? Because the Kelly criterion shows us the relative impact of a loss matters more than its absolute size.This explains something I’ve observed for a while now - I know many very wealthy collectors who don’t bother insuring their high end watches, while others who are perhaps worth much less, are insuring similar watches. Both groups, it turns out, are making a perfectly rational decision.—Insurance companies can offer profitable rates to both parties because they have vastly more capital than individual collectors. When you pay £3,000 for insurance that’s worth £3,200 to you and £2,800 to them, everyone wins. 
+
+Important Caveats 
+Before you start plugging numbers into these equations, there are some limitations to be aware of: 
+Total Loss: The Kelly criterion struggles with scenarios involving total loss. If you’re considering liability insurance which protects against losses exceeding your wealth, the formula suggests no premium is too high. This isn’t realistic because even ‘total financial loss’ isn’t infinite in impact (you still retain earning capacity, most developed nations have social safety nets, bankruptcy laws can provide some protection etc) 
+Future Income: The formula only considers current wealth, not future earnings potential. A 30-year-old surgeon and a 65-year-old retiree with identical current wealth should (and probably will) probably make different insurance decisions. 
+Risk Assessment: I used simplified probabilities, but real-world risk assessment is of course, messier. Your specific storage situation, travel habits, and wearing patterns 
+all affect actual risk levels. 
+
+Alternatives 
+The Kelly criterion is inherently conservative. When you apply it to real-world insurance scenarios, it often suggests skipping optional insurance if you can absorb the loss (even if painful). This makes sense because most people are naturally risk-averse, insurance companies price policies at what the market will bear, and administrative costs and profit margins are built into premiums. 
+
+Other approaches you can look into: 
+Expected Value Analysis: Simply compare the expected loss (probability × impact) against premium costs. Less sophisticated but sometimes more practical. 
+Two-Tier Approach: Basic insurance for catastrophic losses. Self-insurance fund for smaller losses. 
+
+Portfolio Theory: Treat insurance as part of your overall risk management strategy, including investments and liquid assets. 
+
+Premium/Value Ratio 
+The premium/value ratio is basically the annual insurance premium divided by the total value of the insured watch(es). For example, if you’re paying £1,000 per year to insure a £50,000 watch, your premium/value ratio is 2%.This helps you quickly assess whether you’re being overcharged. Like all rules of thumb, it is far from perfect, but it’s a useful first check when shopping for insurance.You’ll notice the percentages decrease as values increase. That’s because insurers benefit from the law of large numbers - larger collections typically mean more stable risk profiles and lower administrative costs relative to the insured value. Of course, other factors affect your premium too; things like security measures, location/storage arrangements, claims history, wearing and travel habits, as well as the number of pieces insured will all impact your risk rating.Still, the premium/value ratio gives you a quick way to spot obviously bad deals. If someone quotes you 5% annually, they’re either assuming you’re incredibly risky or simply ripping you a new one.One final note - beware of insurers who advertise seemingly low rates but then inflate values. A 1% premium sounds great until you realise they’ve valued your £50k watch at £75k! 
+
+Bonus: Quick Reference Table 
+
+Note: This is obviously not financial advice. These are general guidelines based on Kelly criterion calculations with workings shown in the footnotes. Your specific situation will vary. 
